@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatePickerCompose</string>
+    <string name="date_icon_description">Date Icon</string>
+</resources>
